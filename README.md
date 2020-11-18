@@ -3,29 +3,29 @@
 
 ## 1. Overview
 
-This repository is an implementation of our NeurIPS 2020 paper [Graph Geometry Interaction Learning] (```GIL```) (https://arxiv.org/abs/2010.12135) in PyTorch, based on [HGCN] (https://arxiv.org/abs/1910.12933) implementation, including following baselines.
+This repository is an implementation of our NeurIPS 2020 paper [Graph Geometry Interaction Learning](https://arxiv.org/abs/2010.12135) (```GIL```)  in PyTorch, based on [HGCN](https://arxiv.org/abs/1910.12933) implementation, including following baselines.
 
 #### Shallow methods (```Shallow```)
 
   * Shallow Euclidean
-  * [Shallow Hyperbolic] (https://arxiv.org/pdf/1705.08039.pdf)
+  * [Shallow Hyperbolic](https://arxiv.org/pdf/1705.08039.pdf)
   
 #### Neural Network (NN) methods 
 
   * Multi-Layer Perceptron (```MLP```)
-  * [Hyperbolic Neural Networks] (```[HNN]```) (https://arxiv.org/pdf/1805.09112.pdf)
+  * [Hyperbolic Neural Networks](https://arxiv.org/pdf/1805.09112.pdf) (```HNN```) 
   
 #### Graph Neural Network (GNN) methods 
 
-  * [Graph Convolutional Neural Networks] (```GCN```) (https://arxiv.org/pdf/1609.02907.pdf)
-  * [Graph Attention Networks] (```GAT```) (https://arxiv.org/pdf/1710.10903.pdf)
-  * [Inductive Representation Learning on Large Graphs] (```SAGE```) (https://arxiv.org/abs/1706.02216)
-  * [Simplifying graph convolutional networks] (```SGC```) (https://arxiv.org/abs/1902.07153)
+  * [Graph Convolutional Neural Networks](https://arxiv.org/pdf/1609.02907.pdf) (```GCN```) 
+  * [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf) (```GAT```) 
+  * [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216) (```SAGE```) 
+  * [Simplifying graph convolutional networks](https://arxiv.org/abs/1902.07153) (```SGC```) 
   
 #### Hyperbolic Graph Neural Network (HGNN) methods 
-  * [Hyperbolic Graph Convolutions Networks] (```HGCN```) (https://arxiv.org/abs/1910.12933)
-  * [Hyperbolic Graph Neural Networks] (```HGNN```) (https://arxiv.org/abs/1910.12892)
-  * [Hyperbolic Graph Attention Networks] (```HGAT```) (https://arxiv.org/abs/1912.03046)
+  * [Hyperbolic Graph Convolutions Networks](https://arxiv.org/abs/1910.12933) (```HGCN```) 
+  * [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) (```HGNN```) 
+  * [Hyperbolic Graph Attention Networks](https://arxiv.org/abs/1912.03046) (```HGAT```) 
   
 All models can be trained for 
 
