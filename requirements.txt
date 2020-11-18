@@ -1,0 +1,9 @@
+python == 3.6.2
+torch == 1.1.0
+numpy == 1.16.4
+scipy == 1.3.0
+networkx == 2.3
+sage == 9.0
+geoopt ==0.0.1
+torch_scatter == 1.3.0
+torch_geometric == 1.3.0
