@@ -5,6 +5,8 @@
 
 This repository is an implementation of our NeurIPS 2020 paper [Graph Geometry Interaction Learning](https://arxiv.org/abs/2010.12135) (```GIL```)  in PyTorch, based on [HGCN](https://arxiv.org/abs/1910.12933) implementation, including following baselines.
 
+Schematic of GIL architecture.
+![image](https://github.com/CheriseZhu/GIL/blob/master/model.png)
 #### Shallow methods (```Shallow```)
 
   * Shallow Euclidean
